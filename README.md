@@ -13,12 +13,23 @@ Bem-vindo ao meu perfil do GitHub! Sou Analista de Qualidade dedicado a garantir
 
 ---
 
-## Habilidades e Ferramentas
+## 🧰 Habilidades e Ferramentas
 
-- **Testes:** Testes funcionais, testes de regressão, testes de integração, testes de aceitação.
-- **Automação:** Cypress.
-- **Ferramentas de Gestão:** JIRA, TestLink, Salesforce, Azure.
-- **Outros:** SQL, Git, Postman.
+### **Teste**
+
+<img src="https://img.shields.io/badge/Testes%20Funcionais-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Testes%20de%20Regress%C3%A3o-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Testes%20de%20Integra%C3%A7%C3%A3o-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Testes%20de%20Aceita%C3%A7%C3%A3o-blue?style=for-the-badge" />
+
+### **Automação**
+
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+
+### **Ferramentas de Gestão**
+
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/TestLink-03A9F4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+## 🔧 Ferramentas e Utilitários
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a><img src="https://img.shields.io/badge/Fork-6e5494?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/TestRetail-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/BareTail-yellow?style=for-the-badge" />
 
 ---
 
